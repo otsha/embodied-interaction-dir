@@ -25,7 +25,7 @@ The viewer can hover their hand over a surface to have random plants grow on it.
 
 ## General Thoughts
 
-Whatever [artistic idea](/docs/final-project-proposal) I had at the beginning of the project quickly got thrown aside once I realized that even getting the scene understanding capabilities of the Hololens to work was quite challenging. I did, however, like the idea of growing plants when touching objects, so I stuck with that part.
+Whatever [artistic idea](/embodied-interaction-dir/docs/final-project-proposal) I had at the beginning of the project quickly got thrown aside once I realized that even getting the scene understanding capabilities of the Hololens to work was quite challenging. I did, however, like the idea of growing plants when touching objects, so I stuck with that part.
 
 As for the final product, I do like the interaction and I think it is quite fascinating to interact with the space around you to see what could be. My main goal was to explore augmented reality design & development in preparation for my master’s thesis, and I do think that I succeeded mostly in that.
 
@@ -37,7 +37,7 @@ The experience was built for the Microsoft Hololens 2 using Unreal Engine 5.1.1.
 
 The final result is running on the device itself. I adjusted the assets' level of detail (LOD) to find a balance between looking good and not being overly detailed. Otherwise, the project settings mostly follow [Microsoft's recommendations](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unreal/performance-recommendations-for-unreal). The [chessboard tutorial](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unreal/tutorials/unreal-uxt-ch1) provides some information on how to set your project up, but the UXTools plugin has not been updated for Unreal 5 as of writing this and *will not work as-is*! Thankfully, it is not required to create something like this project (minus the hand "menu" seen in the video).
 
-> Interested in doing something like this yourself? Then you probably have run into Microsoft's abysmal documentation. I've collected some (hopefully helpful) scene understanding pointers [on a separate page](/docs/hololens-scene-understanding).
+> Interested in doing something like this yourself? Then you probably have run into Microsoft's abysmal documentation. I've collected some (hopefully helpful) scene understanding pointers [on a separate page](/embodied-interaction-dir/docs/hololens-scene-understanding).
 
 ## Insights on the Hololens
 

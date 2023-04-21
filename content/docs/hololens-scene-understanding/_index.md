@@ -58,7 +58,7 @@ Now, we can calculate the position where the hand ray intersects with the spatia
 
 ![](./img/blueprints/line-trace-and-draw-debug.png)
 
-In this case, rotation is also calculated so that the resulting rotator's x-axis is always pointing in the direction of the surface's tangent (as seen in [project report #3](/docs/project-report-3)).
+In this case, rotation is also calculated so that the resulting rotator's x-axis is always pointing in the direction of the surface's tangent (as seen in [project report #3](/embodied-interaction-dir/docs/project-report-3)).
 
 This can then be extended to check the distance between the hand and the wall:
 

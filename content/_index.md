@@ -8,12 +8,12 @@ The viewer can hover their hand over a surface to have random plants grow on it.
 
 ## Documentation
 
-- [Final Report](/docs/final-project-report)
-- [Working with Scene Understanding in Unreal](/docs/hololens-scene-understanding)
+- [Final Report](/embodied-interaction-dir/docs/final-project-report)
+- [Working with Scene Understanding in Unreal](/embodied-interaction-dir/docs/hololens-scene-understanding)
 
 ### Progress Reports
 
-- [Original Project Proposal](/docs/final-project-proposal)
-- [Project Report #1](/docs/project-report-1)
-- [Project Report #2](/docs/project-report-2)
-- [Project Report #3](/docs/project-report-3)
+- [Original Project Proposal](/embodied-interaction-dir/docs/final-project-proposal)
+- [Project Report #1](/embodied-interaction-dir/docs/project-report-1)
+- [Project Report #2](/embodied-interaction-dir/docs/project-report-2)
+- [Project Report #3](/embodied-interaction-dir/docs/project-report-3)

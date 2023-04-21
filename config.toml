@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://otsha.github.io/embodied-interaction-dir/'
 languageCode = 'en-us'
 title = 'Embodied Interaction'
 theme = 'hugo-book'
